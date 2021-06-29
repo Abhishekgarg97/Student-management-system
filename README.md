@@ -1,5 +1,5 @@
 # Student-management-system
 
 <div align="center">
-<img src="screenshot.jpg" width="700">
+<img src="screenshot.JPG" width="700">
 </div>
